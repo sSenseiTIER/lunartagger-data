@@ -16,7 +16,8 @@
     },
     "Beast": {
         "Player3": "Tier1",
-        "Player4": "Tier2"
+        "Player4": "Tier2",
+        "Sheik": "HT5"
     },
     "UHC": {
         "Player5": "Tier3",
