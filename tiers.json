@@ -1,37 +1,31 @@
 {
     "NetheritePots": {
-        "Steve": "Tier1",
-        "Alex": "Tier2",
-        "Vayju": "Tier3",
-        "xTiago234": "HT5",
-        "Sweky": "HT3",
-        "Hunter": "HT3"
+        "Vayju": "HT4",
+        "Alex": "Tier2"
     },
     "SMP": {
-        "Steve": "Tier2",
-        "Sheik": "Tier1",
-        "Herobrine": "Tier3",
-        "Sweky": "HT1"
+        "Steve": "LT5",
+        "Vayju": "HT4"
     },
     "CrystalPvP": {
-        "Player1": "Tier1",
-        "Player2": "Tier2"
+        "Player1": "LT5",
+        "Player2": "LT5"
     },
     "Beast": {
-        "Player3": "Tier1",
-        "Player4": "Tier2",
+        "Player3": "LT5",
+        "Player4": "LT5",
         "Sheik": "HT5"
     },
     "UHC": {
-        "Player5": "Tier3",
-        "Player6": "Tier2"
+        "Player5": "LT5",
+        "Player6": "LT5"
     },
     "DiamondPots": {
-        "Player7": "Tier1",
-        "Player8": "Tier2"
+        "Player7": "LT5",
+        "Player8": "LT5"
     },
     "Axe": {
-        "Player9": "Tier3",
-        "Player10": "Tier2"
+        "Player9": "LT5",
+        "Player10": "LT5"
     }
 }
