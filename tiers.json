@@ -1,7 +1,32 @@
 {
-    "Dream": "HT1",
-    "Technoblade": "HT1",
-    "Steve": "LT5",
-    "Vayju": "HT4",
-    "Jisen": "LT3"
+  "NetheritePots": {
+    "Steve": "Tier1",
+    "Alex": "Tier2",
+    "Vayju": "Tier3"
+  },
+  "SMP": {
+    "Steve": "Tier2",
+    "Sheik": "Tier1",
+    "Herobrine": "Tier3"
+  },
+  "CrystalPvP": {
+    "Player1": "Tier1",
+    "Player2": "Tier2"
+  },
+  "Beast": {
+    "Player3": "Tier1",
+    "Player4": "Tier2"
+  },
+  "UHC": {
+    "Player5": "Tier3",
+    "Player6": "Tier2"
+  },
+  "DiamondPots": {
+    "Player7": "Tier1",
+    "Player8": "Tier2"
+  },
+  "Axe": {
+    "Player9": "Tier3",
+    "Player10": "Tier2"
+  }
 }
